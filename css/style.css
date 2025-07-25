@@ -405,3 +405,13 @@ h2 {
   font-weight: 400;
   line-height: 150%;
 }
+.footer-links {
+  gap: 48px;
+}
+.footer-links a {
+  color: #8987a1;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
